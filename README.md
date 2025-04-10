@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-💻 trabajando en Escuela Internacional de Posgrado desde mazro de 2025<br>🎓 estudiando Ingeniería Informática en la Universidad de Granada<br>
+💻 trabajando en Escuela Internacional de Posgrado desde marzo de 2025<br>🎓 estudiando Ingeniería Informática en la Universidad de Granada<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioillan&layout=compact&theme=dark)
 
