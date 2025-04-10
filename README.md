@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-💻 trabajando en Escuela Internacional de Posgrado desde mazro de 2025<br>🎓 estudiando <a href="https://etsiit.ugr.es/">Ingeniería Informática en la Universidad de Granada</a><br>
+💻 trabajando en Escuela Internacional de Posgrado desde mazro de 2025<br>🎓 estudiando Ingeniería Informática en la Universidad de Granada<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=punto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
